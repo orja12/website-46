@@ -1,0 +1,9 @@
+node_modules
+.next
+.git
+dist
+build
+*.tar.gz
+*.zip
+artifact.tar.gz
+.DS_Store
